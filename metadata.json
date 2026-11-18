@@ -1,0 +1,8 @@
+{
+  "name": "Atelier Loupe",
+  "description": "An illustrated daily Spot the Difference game with a 6-month archive, precision timers, combo scoring, player profiles, and competitive leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
